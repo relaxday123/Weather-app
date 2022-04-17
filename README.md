@@ -1,6 +1,6 @@
 # Weather-app
 
-## [Video và file apk](https://drive.google.com/file/d/1VjOH46vhIr0lQ1T63JUuy1-7YP87yDHF/view?usp=sharing)
+## [Video và file apk](https://drive.google.com/drive/u/1/folders/1EY6KngxYcllgHPr3FYCQY8NQnLkvOe3i)
 
 ### Bài tập thực hành
 
